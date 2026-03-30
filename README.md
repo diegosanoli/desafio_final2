@@ -88,4 +88,4 @@ Ir para DIREITA
 
 
 
-*Desenvolvido para a disciplina de Estrutura de Dados - FEICO*
+*Desenvolvido para a disciplina de Estrutura de Dados*
